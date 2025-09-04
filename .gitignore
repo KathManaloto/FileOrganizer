@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+*.log
+target/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts (don’t put compiled outputs in Git)
+*.jar
+*.exe
+
+# Optional: ignore installer outputs but keep script
+Installer/
+# FileOrganizer.iss
