@@ -58,6 +58,14 @@ Here are some screenshots of the File Organizer App in action:
 *➡️ Organized results after scanning*
 
 ---
+
+## 🎬 Demo
+
+Here’s a quick demo of the File Organizer App in action:
+![Demo](./screenshots/demo.gif)
+
+---
+
 ## 🔮 Future Improvements
 - Progress bar for large directories
 - Option to move specific extensions to preferred categories
